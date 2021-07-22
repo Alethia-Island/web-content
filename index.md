@@ -17,4 +17,4 @@
 
 ## Sandbox rules
 
-[Alethia Island Sandbox Rules](https://alethia-island.github.io/WebLinks/sandbox_rules.md)
+[Alethia Island Sandbox Rules](https://alethia-island.github.io/WebLinks/sandbox_rules)
