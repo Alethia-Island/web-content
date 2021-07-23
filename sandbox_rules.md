@@ -1,6 +1,5 @@
 ## SANDBOX RULES
 - Respect the sim, staff, and other users of the sandbox.
-
 - No sex / adult roleplay.
 - No child avatars.
 - No begging, selling, spam, recruitment or unwanted advertising.
@@ -11,7 +10,6 @@
 
 ## General Information
 - To help us maintain a pleasant and welcoming environment, we kindly ask residents to also acknowledge the rules and guidelines of the sim.
-
 - Be cautious of accepting "free gifts" and group invitations whilst at our sandbox. These are not services operated by Alethia Management.
 - Alethia Island is a homestead region and has 1/4 of the resources of a full region. Please be mindful of this when running heavy or intensive tasks!
 - If your landmark isn't working properly, please try using the teleport pads to get to your destination.
