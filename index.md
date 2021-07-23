@@ -19,8 +19,8 @@
 
 ### General Information:
 
-https://alethia-island.github.io/WebLinks/general_information
+[Read more here](https://alethia-island.github.io/WebLinks/general_information)
 
 ### Sandbox rules:
 
-https://alethia-island.github.io/WebLinks/sandbox_rules
+[Read more here](https://alethia-island.github.io/WebLinks/sandbox_rules)
