@@ -15,6 +15,6 @@
 ### Inworld:
 [https://rebrand.ly/AlethiaIsland](https://rebrand.ly/AlethiaIsland) (via [Second Life Maps](https://maps.secondlife.com))
 
-### Sandbox rules
+### Sandbox rules:
 
 [Alethia Island Sandbox Rules](https://alethia-island.github.io/WebLinks/sandbox_rules)
