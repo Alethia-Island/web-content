@@ -14,7 +14,7 @@
 
 ---
 
-### Inworld:
+### In World:
 [https://rebrand.ly/AlethiaIsland](https://rebrand.ly/AlethiaIsland) (via [Second Life Maps](https://maps.secondlife.com))
 
 ### General Information:
