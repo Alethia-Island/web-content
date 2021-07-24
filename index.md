@@ -12,15 +12,5 @@
 ### twitter:
 [https://twitter.com/AlethiaIsland](https://twitter.com/AlethiaIsland)
 
----
-
 ### In World:
 [https://rebrand.ly/AlethiaIsland](https://rebrand.ly/AlethiaIsland) (via [Second Life Maps](https://maps.secondlife.com))
-
-### General Information:
-
-[Read more here](https://alethia-island.github.io/WebLinks/general_information)
-
-### Sandbox rules:
-
-[Read more here](https://alethia-island.github.io/WebLinks/sandbox_rules)
