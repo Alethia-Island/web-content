@@ -1,4 +1,4 @@
-## Links to other services we use.
+## Links to other services we use
 
 
 #### Blog:
