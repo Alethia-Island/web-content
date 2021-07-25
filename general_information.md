@@ -1,4 +1,4 @@
-* To help us maintain a pleasant and welcoming environment, we kindly ask residents to also acknowledge the rules and guidelines of the sim.
+* To help us maintain a pleasant and welcoming environment, we kindly ask residents to also acknowledge the [rules](https://alethia-island.github.io/sandbox/rules) and guidelines of the sim.
 
 * Be cautious of accepting "free gifts" and group invitations whilst at our sandbox. These are not services operated by Alethia Management.
 
@@ -6,7 +6,7 @@
 
 * If your landmark isn't working properly, please try using the teleport pads to get to your destination.
 
-* Having problems? Shout "/911 admin" or click any of the help points around the sandbox. Alternatively, please contact an owner.
+* Having problems? Shout "**/911 admin**" or click any of the [help points](https://alethia-island.github.io/sandbox/help/help-points) around the sandbox. Alternatively, please contact an owner.
 
 * This sand box runs an 8 hour auto-return. The timer starts from when you rez an object.
 
@@ -14,6 +14,6 @@
 
 * Excessively idle avatars may be removed to ease congestion during very busy periods.
 
-* Need some privacy away from other people? There are privacy-enabled areas located just next to the landing point.
+* Need some privacy away from other people? There are [privacy-enabled areas](https://alethia-island.github.io/sandbox/areas/privacy) located just next to the landing point.
 
 * The sandbox is always open except during special events when we may choose to restrict access. A notice will be always be sent beforehand.
