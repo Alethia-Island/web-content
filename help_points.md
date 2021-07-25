@@ -1,5 +1,5 @@
 <p align="center">
-  <img class="img-thumbnail" src="https://alethiaisland.files.wordpress.com/2016/10/help-point-signs_001.jpg?w=300" alt="Privacy Areas">
+  <img class="img-thumbnail" src="https://alethiaisland.files.wordpress.com/2016/10/help-point-signs_001.jpg?w=300" alt="Help Points">
 </p>
 
 You can report problems at the sandbox by using any of the help-points shown above. Simply touch (or shout **/911 admin**) and leave a brief description of the issue in the text box.
