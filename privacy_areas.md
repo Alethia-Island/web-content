@@ -8,7 +8,7 @@ To our surprise the experiment seemed to work, and following the addition of par
 
 **The privacy areas change color based on their status.**
 
-- ![#0000ff](https://via.placeholder.com/15/0000ff/000000?text=+) **Blue**: Vacant and available</p>
-- ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) **Red**: Currently occupied</p>
+- ![#0000ff](https://via.placeholder.com/15/0000ff/000000?text=+) Vacant and available</p>
+- ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) Currently occupied</p>
 
 _Please note that these areas are covered by our sandbox rules. Anybody found to be misusing them in any way may face a temporary ban._
