@@ -1,5 +1,3 @@
-## Sandbox Rules
-
 * Respect the sim, staff, and other users of the sandbox.
 
 * No sex / adult roleplay.
