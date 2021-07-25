@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="700" src="https://alethiaisland.files.wordpress.com/2010/01/unpacking-areas-01_004.jpg?w=700" alt="Privacy Areas">
+  <img src="https://alethiaisland.files.wordpress.com/2010/01/unpacking-areas-01_004.jpg?w=700" alt="Privacy Areas">
 </p>
 
 The unpacking/privacy areas were first introduced shortly after we opened in 2009, serving as experimental fast-return areas where people could open boxes and not clutter the sandbox with junk for hours. 
