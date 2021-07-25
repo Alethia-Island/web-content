@@ -1,5 +1,3 @@
-## Privacy Areas
-
 <p align="center">
   <img width="700" src="https://alethiaisland.files.wordpress.com/2010/01/unpacking-areas-01_004.jpg?w=700" alt="Privacy Areas">
 </p>
