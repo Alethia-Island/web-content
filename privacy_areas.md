@@ -1,5 +1,5 @@
 <p align="center">
-  <img class="img-thumbnail" src="https://raw.githubusercontent.com/Alethia-Island/assets/master/images/unpacking-areas.jpg" alt="Privacy Areas">
+  <img class="img-thumbnail" src="https://raw.githubusercontent.com/Alethia-Island/assets/master/images/sandbox/unpacking-areas.jpg" alt="Privacy Areas">
 </p>
 
 The unpacking/privacy areas were first introduced shortly after we opened in 2009, serving as experimental fast-return areas where people could open boxes and not clutter the sandbox with junk for hours. 

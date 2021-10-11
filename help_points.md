@@ -1,5 +1,5 @@
 <p align="center">
-  <img class="img-thumbnail" src="https://raw.githubusercontent.com/Alethia-Island/assets/master/images/help-point-sign.jpg" alt="Help Points">
+  <img class="img-thumbnail" src="https://raw.githubusercontent.com/Alethia-Island/assets/master/images/sandbox/help-point-sign.jpg" alt="Help Points">
 </p>
 
 You can report problems at the sandbox by using any of the help-points shown above. Simply touch (or shout **/911 admin**) and leave a brief description of the issue in the text box.
