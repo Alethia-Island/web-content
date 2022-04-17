@@ -1,7 +1,7 @@
 **Blog**:
 [https://blog.alethia.tk](https://blog.alethia.tk)
 
-**flikr**:
+**flickr**:
 [https://flickr.com/alethiaisland](https://flickr.com/alethiaisland/)
 
 **GitHub**:
