@@ -1,14 +1,8 @@
-**Blog**:
-[https://alethiaisland.wordpress.com](https://alethiaisland.wordpress.com/)
+Alethia Island operates a script limit to help maintain a smooth and enjoyable experience at the sandbox. Exceeding the limit for an extended period of time will result in automatic ejection.
 
-**flikr**:
-[https://flickr.com/alethiaisland](https://flickr.com/alethiaisland/)
+The script counter can be found next to our main landing point and represents the overall impact of all users in the sim.
 
-**GitHub**:
-[https://github.com/Alethia-Island](https://github.com/Alethia-Island/)
+Our current script impact limits are:
 
-**twitter**:
-[https://twitter.com/AlethiaIsland](https://twitter.com/AlethiaIsland)
-
-**In World**:
-[https://rebrand.ly/AlethiaIsland](https://rebrand.ly/AlethiaIsland) (SLURL) using [Second Life Maps](https://maps.secondlife.com)
+* 16 MiB Maximum Memory
+* 0.750ms Maximum CPU Time
