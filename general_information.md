@@ -1,4 +1,4 @@
-* To help us maintain a pleasant and welcoming environment, we kindly ask residents to also acknowledge the [rules](./sandbox/rules) and guidelines of the sim.
+To help us maintain a pleasant and welcoming environment, we kindly ask residents to also acknowledge the [rules](./sandbox/rules) and guidelines of the sim.
 
 * Be cautious of accepting "free gifts" and group invitations whilst at our sandbox. These are not services operated by Alethia Management.
 
