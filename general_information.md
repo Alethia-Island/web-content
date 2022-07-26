@@ -1,19 +1,12 @@
 To help us maintain a pleasant and welcoming environment, we kindly ask residents to also acknowledge the [rules](./sandbox/rules) and guidelines of the sim.
 
-* Be cautious of accepting "free gifts" and group invitations whilst at our sandbox. These are not services operated by Alethia Management.
-
-* Alethia Island is a homestead region and has 1/4 of the resources of a full region. Please be mindful of this when running heavy or intensive tasks!
-
-* If your landmark isn't working properly, please try using the teleport pads to get to your destination.
-
-* Having problems? Shout "**/911 admin**" or click any of the [help points](./sandbox/help/help-points) around the sandbox. Alternatively, please contact an owner.
-
-* This sand box runs an 8 hour auto-return. The timer starts from when you rez an object.
-
-* Excessively scripted avatars will be asked by our script counters to reduce their scripts. Failure to do so will result in an automatic ejection.
-
-* Excessively idle avatars may be removed to ease congestion during very busy periods.
-
-* Need some privacy away from other people? There are [privacy-enabled areas](./sandbox/areas/privacy) located just next to the landing point.
-
-* The sandbox is always open except during special events when we may choose to restrict access. A notice will be always be sent beforehand.
+* Be cautious of accepting unexpected gifts or group invitations whilst at a sandbox.
+* We are a homestead region. Please be mindful of this when running intensive activities.
+* Excessively scripted avatars will be asked to reduce their scripts or may be removed automatically.
+* [Self-service object return](./sandbox/objects/return) is available from the main landing point and sky platforms.
+* [Having problems?](./sandbox/help/help-points) Shout “/911 admin” or click any of the help signs located around the region.
+* Landmark not working? Please use the teleporter system to reach your destination.
+* [Need privacy?](./sandbox/areas/privacy) Try out our public privacy areas, accessible from the teleporters.
+* The privacy areas enforce a 30m height limit. You will be automatically ejected for going above this height.
+* No-script areas can be found next the privacy areas. Look for the orange zone markers.
+* Like our sandbox? Please consider supporting us with a small donation!

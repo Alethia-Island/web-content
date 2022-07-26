@@ -1,7 +1,4 @@
-Welcome to Alethia Island! Please read our rules and help us maintain a pleasant environment for everyone.
-
-
-**RULES**
+Please read our rules and help us maintain a pleasant environment for everyone.
 
 * Be respectful of the region, staff, and other users.
 * Discrimination against any users or members of staff at Alethia Island will not be tolerated.
@@ -19,17 +16,3 @@ Welcome to Alethia Island! Please read our rules and help us maintain a pleasant
 * Please rez very large builds in the sky or consider using our sky platforms, accessible from the teleporter system.
 * Do not block access to any of the public services (Teleporters, stores, adboards, privacy areas etc.)
 * Please take or delete your objects when you have finished.
-
-
-**GENERAL INFORMATION**
-
-* Be cautious of accepting unexpected gifts or group invitations whilst at a sandbox.
-* We are a homestead region. Please be mindful of this when running intensive activities.
-* Excessively scripted avatars will be asked to reduce their scripts or may be removed automatically.
-* [Self-service object return](./sandbox/objects/return) is available from the main landing point and sky platforms.
-* [Having problems?](./sandbox/help/help-points) Shout “/911 admin” or click any of the help signs located around the region.
-* Landmark not working? Please use the teleporter system to reach your destination.
-* [Need privacy?](./sandbox/areas/privacy) Try out our public privacy areas, accessible from the teleporters.
-* The privacy areas enforce a 30m height limit. You will be automatically ejected for going above this height.
-* No-script areas can be found next the privacy areas. Look for the orange zone markers.
-* Like our sandbox? Please consider supporting us with a small donation!
