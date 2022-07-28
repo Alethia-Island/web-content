@@ -8,5 +8,5 @@ To help us maintain a pleasant and welcoming environment, we kindly ask resident
 * Landmark not working? Please use the teleporter system to reach your destination.
 * [Need privacy?](./sandbox/areas/privacy) Try out our public privacy areas, accessible from the teleporters.
 * The privacy areas enforce a 30m height limit. You will be automatically ejected for going above this height.
-* No-script areas can be found next the privacy areas. Look for the orange zone markers.
+* No-script areas can be found next the [privacy areas](./sandbox/areas/privacy). Look for the orange zone markers.
 * Like our sandbox? Please consider supporting us with a small donation!
