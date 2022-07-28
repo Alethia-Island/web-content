@@ -16,4 +16,4 @@ __**Contact Us In-World**__
 
 <p><img class="rounded-circle" src="https://my-secondlife-agni.akamaized.net/users/silver.maesar/thumb_sl_image.png" style="height: 24px; width: 24px; alt="Silver Maesar"> <a href="https://my.secondlife.com/silver.maesar" target="blank">Silver Maesar</a></p>
 
-<p><img class="rounded-circle" src="https://my-secondlife-agni.akamaized.net/users/wallii/thumb_sl_image.png" style="height: 24px; width: 24px; alt="Walliis"> <a href="https://my.secondlife.com/wallii" target="blank">Wallii</a></p>
+<p><img class="rounded-circle" src="https://my-secondlife-agni.akamaized.net/users/wallii/thumb_sl_image.png" style="height: 24px; width: 24px; alt="Wallii"> <a href="https://my.secondlife.com/wallii" target="blank">Wallii</a></p>
