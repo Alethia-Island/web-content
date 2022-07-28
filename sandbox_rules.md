@@ -15,4 +15,4 @@ Please read our rules and help us maintain a pleasant environment for everyone.
 * There is a 200 LI (<a href="https://community.secondlife.com/knowledgebase/english/calculating-land-impact-r273" target="blank">Land Impact</a>) limit during busy periods. Your objects may be returned if you exceed this limit.
 * Please rez very large builds in the sky or consider using our sky platforms, accessible from the teleporter system.
 * Do not block access to any of the public services (Teleporters, stores, adboards, privacy areas etc.)
-* Please take or delete your objects when you have finished.
+* Please take or [delete](./sandbox/objects/scripting/limits) your objects when you have finished.
