@@ -2,7 +2,7 @@ To help us maintain a pleasant and welcoming environment, we kindly ask resident
 
 * Be cautious of accepting unexpected gifts or group invitations whilst at a sandbox.
 * We are a homestead region. Please be mindful of this when running intensive activities.
-* Excessively scripted avatars will be asked to reduce their scripts or may be removed automatically.
+* Excessively [scripted](./sandbox/objects/scripting/limits) avatars will be asked to reduce their [scripts](./sandbox/objects/scripting/limits) or may be removed automatically.
 * [Self-service object return](./sandbox/objects/return) is available from the main landing point and sky platforms.
 * [Having problems?](./sandbox/help/help-points) Shout “/911 admin” or click any of the help signs located around the region.
 * Landmark not working? Please use the teleporter system to reach your destination.
