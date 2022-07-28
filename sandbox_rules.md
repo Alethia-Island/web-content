@@ -12,7 +12,7 @@ Please read our rules and help us maintain a pleasant environment for everyone.
 * No forms of assault against any user without their prior consent.
 * Avoid using items that cause a problem for the region or users.
 * Avoid interfering with or passing through the occupied privacy areas.
-* There is a 200 LI (<a href="https://community.secondlife.com/knowledgebase/english/calculating-land-impact-r273" target="blank">Land Impact</a>) limit during busy periods. Your objects may be returned if you exceed this limit.
+* There is a 200 LI (<a href="https://community.secondlife.com/knowledgebase/english/calculating-land-impact-r273" target="blank" title="Opens in a new window">Land Impact <i class="fa-solid fa-up-right-from-square"></i></a>) limit during busy periods. Your objects may be returned if you exceed this limit.
 * Please rez very large builds in the sky or consider using our sky platforms, accessible from the teleporter system.
 * Do not block access to any of the public services (Teleporters, stores, adboards, privacy areas etc.)
 * Please take or [delete](./sandbox/objects/return) your objects when you have finished.
