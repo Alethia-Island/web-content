@@ -6,4 +6,4 @@
 
 **<i class="fa-brands fa-twitter"></i>** <a href="https://twitter.com/AlethiaIsland" target="blank">@AlethiaIsland <i class="fa-solid fa-up-right-from-square"></i></a>
 
-**<i class="fa-solid fa-map"></i>** <a href="http://secondlife.com/destination/alethia-island" target="blank">via Second Destinations <i class="fa-solid fa-up-right-from-square"></i></a>
+**<i class="fa-solid fa-map"></i>** <a href="http://secondlife.com/destination/alethia-island" target="blank">via Second Life Destinations <i class="fa-solid fa-up-right-from-square"></i></a>
