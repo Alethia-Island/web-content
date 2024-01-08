@@ -6,4 +6,4 @@
 
 **<i class="fa-brands fa-twitter"></i>** <a href="https://twitter.com/AlethiaIsland" target="blank">@AlethiaIsland <i class="fa-solid fa-up-right-from-square"></i></a>
 
-**<i class="fa-solid fa-map"></i>** [https://map.alethia.tk](https://map.alethia.tk) (SLURL) using <a href="https://maps.secondlife.com" target="blank">Second Life Maps <i class="fa-solid fa-up-right-from-square"></i></a>
+**<i class="fa-solid fa-map"></i>** <a href="https://maps.secondlife.com" target="blank">Second Life Maps <i class="fa-solid fa-up-right-from-square"></i></a>
