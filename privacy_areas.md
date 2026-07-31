@@ -6,10 +6,8 @@ These areas began as fast-return unpacking spaces and now also serve as public c
 
 ## Availability
 
-| Visual status | Meaning |
-| --- | --- |
-| 🟦 **Blue** | Vacant and available |
-| 🟥 **Red** | Currently occupied |
+ 🟦 **Blue** | Vacant and available
+ 🟥 **Red** | Currently occupied
 
 Do not enter, pass through, or interfere with an occupied area. Privacy areas remain subject to the [sandbox rules](/sandbox/rules), and misuse may result in a temporary ban.
 
