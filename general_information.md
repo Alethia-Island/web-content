@@ -11,7 +11,7 @@ Alethia Island is a Homestead region. Please be mindful of shared resources when
 
 Please consider a small in-world donation if Alethia Island is useful: 
 
-[SL Maps link](https://maps.secondlife.com/secondlife/Alethia Island/128/128/25/)
+[SL Maps link](https://maps.secondlife.com/secondlife/Alethia%20Island/128/128/25/)
 
 ## Keeping the region enjoyable
 
