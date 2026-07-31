@@ -1,13 +1,9 @@
-# Help points
+<p align="center">
+  <img class="img-thumbnail" src="https://raw.githubusercontent.com/Alethia-Island/assets/master/images/sandbox/help-point-sign.jpg" alt="Help Points">
+</p>
 
-![Alethia Island help-point sign](https://raw.githubusercontent.com/Alethia-Island/assets/master/images/sandbox/help-point-sign.jpg)
+You can report problems at the sandbox by using any of the help-points shown above. Simply touch (or shout **/911 admin**) and leave a brief description of the issue in the text box.
 
-For a problem at Alethia Island, touch any help-point sign or type **`/911 admin`** in nearby chat. Include a brief description, relevant usernames, and supporting information; take a screenshot if useful.
+Please be sure to disclose all relevant usernames together with any supporting information so we can take appropriate action. If necessary, please also take a screenshot of the incident.
 
-This confidential service is only for Alethia Island issues. Reports are not published or shared with third parties. Misuse may result in a ban.
-
-For non-urgent questions, comments, or suggestions, see [contact us](/contact).
-
-## When to use a help point
-
-Use help points for problems happening at Alethia Island, such as a disruption, a lost object, or a rule concern. For general feedback or non-urgent enquiries, contact the management team instead.
+_This service is for problems occurring at Alethia Island only. Misuse may result in a ban. Data submitted through the service is confidential and will not be published or shared with third parties._
