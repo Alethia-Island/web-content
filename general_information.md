@@ -9,7 +9,9 @@ Alethia Island is a Homestead region. Please be mindful of shared resources when
 - Public [privacy areas](/sandbox/areas/privacy) enforce a 30-metre height limit. Nearby no-script areas have orange zone markers.
 - For help, touch a sign or type **`/911 admin`**. See [help points](/sandbox/help/help-points).
 
-Please consider a small in-world donation if Alethia Island is useful: https://maps.secondlife.com/secondlife/Alethia%20Island/128/128/25/
+Please consider a small in-world donation if Alethia Island is useful: 
+
+[SL Maps link](https://maps.secondlife.com/secondlife/Alethia Island/128/128/25/)
 
 ## Keeping the region enjoyable
 
