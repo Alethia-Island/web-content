@@ -1,5 +1,3 @@
-# Welcome to Alethia Island
-
 ![Alethia Island — river and stones](https://raw.githubusercontent.com/Alethia-Island/assets/master/images/sandbox/backgrounds/river_and_stones.png)
 
 Alethia Island is a public tropical sandbox resort in Second Life, operating since 2009. It offers a peaceful, scenic place to build, script, unpack, explore, relax, and take photographs.

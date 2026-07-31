@@ -1,5 +1,3 @@
-# Contact Alethia Island
-
 Questions, comments, and suggestions about Alethia Island and its services are welcome. Online contact-form feedback is not checked regularly, so important matters should be raised in-world. For urgent help, use a [help point](/sandbox/help/help-points).
 
 ## In-world contacts

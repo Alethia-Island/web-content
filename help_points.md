@@ -1,5 +1,3 @@
-# Help points
-
 ![Alethia Island help-point sign](https://raw.githubusercontent.com/Alethia-Island/assets/master/images/sandbox/help-point-sign.jpg)
 
 For a problem at Alethia Island, touch any help-point sign or type **`/911 admin`** in nearby chat. Include a brief description, relevant usernames, and supporting information; take a screenshot if useful.

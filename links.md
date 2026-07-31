@@ -1,5 +1,3 @@
-# Alethia Island links
-
 - [Alethia Island blog](https://alethiaisland.wordpress.com/)
 - [Alethia Island on Flickr](https://flickr.com/alethiaisland)
 - [Alethia Island on GitHub](https://github.com/Alethia-Island)

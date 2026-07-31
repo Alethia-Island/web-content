@@ -1,5 +1,3 @@
-# Sandbox rules
-
 Please help us maintain a pleasant, welcoming environment for everyone.
 
 - Be respectful of the region, staff, and other residents. Discrimination is not tolerated.

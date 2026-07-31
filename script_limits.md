@@ -1,5 +1,3 @@
-# Script limits
-
 Scripts are the small programs inside Second Life objects, attachments, HUDs, vehicles, and gadgets. They make things move, animate, talk, track information, run menus, or react when touched. Useful scripts also use part of the region's shared computer resources.
 
 Alethia Island is a Homestead region, so it has less capacity for busy scripted activity than a full region. To keep building, socialising, and exploring smooth for everyone, Alethia monitors the combined script use of all visitors.

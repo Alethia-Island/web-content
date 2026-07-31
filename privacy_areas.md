@@ -1,5 +1,3 @@
-# Privacy and unpacking areas
-
 ![Alethia Island privacy and unpacking areas](https://raw.githubusercontent.com/Alethia-Island/assets/master/images/sandbox/unpacking-areas.jpg)
 
 These areas began as fast-return unpacking spaces and now also serve as public changing rooms and short-term private spaces. Reach them by teleporter.

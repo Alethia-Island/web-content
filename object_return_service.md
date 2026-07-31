@@ -1,5 +1,3 @@
-# Object return service
-
 ![Alethia Island object-return service](https://raw.githubusercontent.com/Alethia-Island/assets/master/images/sandbox/object-return.jpg)
 
 Self-service object-return terminals help visitors recover items left in the sandbox. Find them around the sandbox, at the main landing point, and on every sky platform.
