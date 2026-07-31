@@ -1,5 +1,3 @@
-# General information
-
 Alethia Island is a Homestead region. Please be mindful of shared resources when running scripts, attachments, vehicles, or large builds. Review the [sandbox rules](/sandbox/rules).
 
 - During busy periods, keep your objects within the 200 [Land Impact](https://community.secondlife.com/knowledgebase/english/calculating-land-impact-r273) limit; objects above it may be returned.
