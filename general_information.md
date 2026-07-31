@@ -1,12 +1,16 @@
-To help us maintain a pleasant and welcoming environment, we kindly ask residents to also acknowledge the [rules](./sandbox/rules) and guidelines of the sim.
+# General information
 
-* Be cautious of accepting unexpected gifts or group invitations whilst at a sandbox.
-* We are a homestead region. Please be mindful of this when running intensive activities.
-* Excessively [scripted](./sandbox/objects/scripting/limits) avatars will be asked to reduce their [scripts](./sandbox/objects/scripting/limits) or may be removed automatically.
-* [Self-service object return](./sandbox/objects/return) is available from the main landing point and sky platforms.
-* [Having problems?](./sandbox/help/help-points) Shout “/911 admin” or click any of the help signs located around the region.
-* Landmark not working? Please use the teleporter system to reach your destination.
-* [Need privacy?](./sandbox/areas/privacy) Try out our public privacy areas, accessible from the teleporters.
-* The [privacy areas](./sandbox/areas/privacy) enforce a 30m height limit. You will be automatically ejected for going above this height.
-* No-script areas can be found next the [privacy areas](./sandbox/areas/privacy). Look for the orange zone markers.
-* Like our sandbox? Please consider supporting us with a <a href="https://maps.secondlife.com/secondlife/Alethia+Island/128/128/25/" target="blank" title="Opens in a new window">small donation <i class="fa-solid fa-up-right-from-square"></i></a>!
+Alethia Island is a Homestead region. Please be mindful of shared resources when running scripts, attachments, vehicles, or large builds. Review the [sandbox rules](/sandbox/rules).
+
+- During busy periods, keep your objects within the 200 [Land Impact](https://community.secondlife.com/knowledgebase/english/calculating-land-impact-r273) limit; objects above it may be returned.
+- Use the teleporter system for sky platforms, privacy areas, and other destinations. Rez very large builds in the sky.
+- Excessively scripted avatars may be asked to reduce scripts or may be removed automatically. See [script limits](/sandbox/objects/scripting/limits).
+- Use the self-service [object-return service](/sandbox/objects/return) at the main landing point or sky platforms to recover objects from the main sandbox parcel.
+- Public [privacy areas](/sandbox/areas/privacy) enforce a 30-metre height limit. Nearby no-script areas have orange zone markers.
+- For help, touch a sign or type **`/911 admin`**. See [help points](/sandbox/help/help-points).
+
+Please consider a small in-world donation if Alethia Island is useful: https://maps.secondlife.com/secondlife/Alethia%20Island/128/128/25/
+
+## Keeping the region enjoyable
+
+Land Impact is a measure of how much region capacity an object uses. A high Land Impact item is not necessarily prohibited, but many large items together can make a shared sandbox harder to use. Build in the sky when appropriate, clean up after yourself, and reduce active scripts when the region is busy.

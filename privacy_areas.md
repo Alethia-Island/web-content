@@ -1,14 +1,29 @@
-<p align="center">
-  <img class="img-thumbnail" src="https://raw.githubusercontent.com/Alethia-Island/assets/master/images/sandbox/unpacking-areas.jpg" alt="Privacy Areas">
-</p>
+# Privacy and unpacking areas
 
-The unpacking/privacy areas were first introduced shortly after we opened in 2009, serving as experimental fast-return areas where people could open boxes and not clutter the sandbox with junk for hours. 
+![Alethia Island privacy and unpacking areas](https://raw.githubusercontent.com/Alethia-Island/assets/master/images/sandbox/unpacking-areas.jpg)
 
-To our surprise the experiment seemed to work, and following the addition of parcel privacy the areas have become more like public dressing rooms, used by people today as a place to change their clothes without others nearby watching.
+These areas began as fast-return unpacking spaces and now also serve as public changing rooms and short-term private spaces. Reach them by teleporter.
 
-**The privacy areas change color based on their status.**
+## Availability
 
-<p> $${\color{blue}■}$$ Vacant and available</p>
-<p> $${\color{red}■}$$  Currently occupied</p>
+| Visual status | Meaning |
+| --- | --- |
+| 🟦 **Blue** | Vacant and available |
+| 🟥 **Red** | Currently occupied |
 
-_Please note that these areas are covered by our sandbox rules. Anybody found to be misusing them in any way may face a temporary ban._
+Do not enter, pass through, or interfere with an occupied area. Privacy areas remain subject to the [sandbox rules](/sandbox/rules), and misuse may result in a temporary ban.
+
+- A **30-metre height limit** applies; going above it results in automatic ejection.
+- The object-return service does not return objects from privacy areas. Contact staff if you need help clearing an object.
+- Nearby no-script areas are marked with orange zone markers.
+
+## Quick links
+
+- [Sandbox rules](/sandbox/rules)
+- [Object-return service](/sandbox/objects/return)
+- [Help points](/sandbox/help/help-points)
+- [Contact the management team](/contact)
+
+## Please be considerate
+
+These are shared public facilities, not private residences. Use them for changing, unpacking, and short-term privacy; leave the area available for the next visitor when you are done.
