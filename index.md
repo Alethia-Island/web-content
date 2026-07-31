@@ -1,9 +1,23 @@
-<p align="center">
-  <img class="img-thumbnail" src="https://raw.githubusercontent.com/Alethia-Island/assets/master/images/sandbox/backgrounds/river_and_stones.png" alt="Image of Alethia Island">
-</p>
+# Welcome to Alethia Island
 
-Alethia Island is a tropical sandbox resort offering a peaceful and scenic experience for everybody. Discover the overgrown pathways, secluded chillout spots and many fun photo opportunities that gives the island unique charm and character.
+![Alethia Island — river and stones](https://raw.githubusercontent.com/Alethia-Island/assets/master/images/sandbox/backgrounds/river_and_stones.png)
 
-We have [privacy areas](./sandbox/areas/privacy), no-script areas, sky platforms and a builder's sky platform.
+Alethia Island is a public tropical sandbox resort in Second Life, operating since 2009. It offers a peaceful, scenic place to build, script, unpack, explore, relax, and take photographs.
 
-Build, script, explore, chill.. all are welcome!
+The region includes [privacy and unpacking areas](/sandbox/areas/privacy), no-script areas, sky platforms, and a dedicated builder's sky platform. As a Homestead region, its resources are shared: please follow the [sandbox rules](/sandbox/rules) and build thoughtfully.
+
+## Quick links
+
+- [General information](/general)
+- [Sandbox rules](/sandbox/rules)
+- [Script limits](/sandbox/objects/scripting/limits)
+- [Object-return service](/sandbox/objects/return)
+- [Privacy areas](/sandbox/areas/privacy)
+- [Help points](/sandbox/help/help-points)
+- [Contact the management team](/contact)
+
+Build. Script. Explore. Chill. All are welcome.
+
+## A shared place to create
+
+Alethia Island is intended for considerate, short-term creative work and relaxed exploration. When you are finished, take your objects with you or use the [object-return service](/sandbox/objects/return) if you need help recovering something from the main sandbox parcel.
